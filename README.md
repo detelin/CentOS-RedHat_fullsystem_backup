@@ -42,3 +42,4 @@ To restore your “tar ball” you need to copy it to the top-most point in the 
 
     $ tar -xvpf /fullbackup.tar
 
+Source: http://www.eandbsoftware.org/how-to-do-a-full-backup-using-the-tar-command-in-linux-centosredhatdebianubuntu/
